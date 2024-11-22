@@ -3,6 +3,10 @@ Repositorio bookstore-app: [https://github.com/chaphe/bookstore-app/tree/main/ba
 
 ![image.png](./multimedia/image.png)
 
+## Video con la explicación de la solución al ejercicio
+
+[https://youtu.be/5xfshLTXWkE](https://youtu.be/5xfshLTXWkE)
+
 ## Descripción del contenido del repositorio
 
 - **backend-catalog.yaml**: configuración para el backend de catálogo.  
